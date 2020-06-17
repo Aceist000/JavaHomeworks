@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ge.btu.junit.demo.CalculatorServiceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.849 s <<< FAILURE! - in ge.btu.junit.demo.CalculatorServiceTest
+additionTest  Time elapsed: 0.021 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <112> but was: <12>
+	at ge.btu.junit.demo.CalculatorServiceTest.additionTest(CalculatorServiceTest.java:20)
+
